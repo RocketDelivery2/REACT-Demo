@@ -1,106 +1,97 @@
 # REACT-Demo
-
-<h1 align="center">React Portfolio</h1>
-
-<p align="center">
-  A frontend React portfolio app built with React + Chakra UI.
-</p>
+<h1 align="center">React Portfolio by Christopher Peterson. Live URL: (Todo) </h1>
 
 <p align="center">
-  <a href="" target="_blank"><b>Live Demo: Todo URL Coming Soon!</b></a>
+  A React demo project showcasing a clean UI, client-side architecture, and a practical build/development workflow.
 </p>
 
 ---
 
-## Tech Stack
+# Getting Started with Create React App
 
-- **Frontend:** React, React Router, Chakra UI
-- **State:** Zustand
-- **Deployment:** Render
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
----
+## Available Scripts
 
-## Project Structure (high level)
+In the project directory, you can run:
 
-- `frontend/` — React client (Vite + Chakra UI)
+### `npm start`
 
----
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Prerequisites
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- **Node.js** (LTS recommended)
-- **npm**
+### `npm test`
 
----
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Install & Run Locally
+### `npm run build`
 
-Install frontend dependencies:
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-```bash
-cd frontend
-npm install
-```
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Start the app:
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-```bash
-npm run dev
-```
+### `npm run eject`
 
-Then open: `http://localhost:5173`
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
----
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## Common Dependency Notes
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-If you're setting up from scratch and you see missing-package errors, these are used in the frontend:
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-```bash
-cd frontend
-npm i react-router-dom zustand
-```
+## Learn More
 
-On Windows, you may need `cross-env`:
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-```bash
-npm i -D cross-env
-```
+To learn React, check out the [React documentation](https://reactjs.org/).
 
----
+### Code Splitting
 
-## Deployment (Render)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-Typical build/start flow:
+### Analyzing the Bundle Size
 
-```bash
-cd frontend
-npm run build
-npm run start
-```
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-If `npm audit` suggests safe fixes:
+### Making a Progressive Web App
 
-```bash
-npm audit fix
-```
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
----
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 
 ## About
 
-My name is **Christopher Peterson**. I'm a full-stack software engineer focused on delivering polished UI/UX experiences along with reliable backend systems.
+My name is **Christopher Peterson**. I’m a full-stack software engineer focused on delivering polished UI/UX experiences along with reliable backend systems.
 
 - **MERN demo:** (Todo)
-- **GitHub:** https://github.com/RocketDelivery2/  
+- **MEVN demo:** (Todo)
+- **GitHub:** https://github.com/RocketDelivery2/
 - **LinkedIn:** https://www.linkedin.com/in/christopher-peterson-2ba8243b6/
-- **Email:** codingcowboy2026@gmail.com  
+- **Email:** codingcowboy2026@gmail.com
 - **Phone:** (517) 719-0029
 
 ---
 
 ## References / Credits
 
-- Public domain images: https://free-images.com/
-- Chakra UI docs: https://chakra-ui.com/docs/get-started/frameworks/vite
-- freeCodeCamp.org
+- https://www.udemy.com/
